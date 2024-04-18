@@ -1,6 +1,9 @@
 # Cats and Dogs Classification using Convolutional Neural Networks
 
-## Overview
+![Cats   dogs](https://github.com/Emilija453/cat_dog_cnn/assets/123960017/1546f2c9-92e8-475a-80f9-376e3190a833)
+
+## Overview!
+
 
 This project demonstrates a Convolutional Neural Network (CNN) model built with TensorFlow and Keras to classify images of cats and dogs. The model is trained on a dataset containing 2000 images for training, 1000 images for validation, and 50 images for testing.
 
